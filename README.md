@@ -9,4 +9,5 @@ I worked with a data set that contains various variables describing used cars. T
 - persons: capacity in terms of persons to carry
 - lug_boot: the size of luggage boot
 - safety: estimated safety of the car
+
 I then compared a variety of classification methods ability to use these descriptors to classify the data points.
